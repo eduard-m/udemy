@@ -77,6 +77,6 @@ function writeYourGenres() {
     }
 }
 
-writeYourGenres();
+writeYourGenres(); // aaaa
 
 // Код возьмите из предыдущего домашнего задания
